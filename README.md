@@ -19,6 +19,7 @@
 - Based in Albacete, Spain.
 - Currently pursuing a degree in Multiplatform Application Development (DAM).
 - Deepening my knowledge in cybersecurity through self-study.
+- Currently studying cybersecurity at [Hack4u](https://hack4u.io/)
 - My goal is to achieve the eJPTv2 certification, followed by the OSCP.
 - Passionate about blending structured education with hands-on learning in technology.
 
