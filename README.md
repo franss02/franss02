@@ -1,2 +1,2 @@
-![Nombre Animado](franss02/myName.svg)
+![Nombre Animado](myName.svg)
 
