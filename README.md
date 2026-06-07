@@ -13,9 +13,8 @@
 Me apasiona la ciberseguridad y el desarrollo de software. Dedico mi tiempo a entender arquitecturas complejas, romper sistemas de forma ética en laboratorios para aprender a protegerlos, y programar herramientas de fortificación y automatización.
 
 - 🎓 **Graduado** del CUFA en Ciberseguridad por la **UCLM**.
-- 💻 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (**DAM**) por el IES Leonardo Da Vinci.
-- 🎯 Estudiando de manera autodidacta (Academia de s4vitar y plataforma INE) para la certificación **eJPTv2**.
-- 🍓 Autoalojando mi propio homelab en una **Raspberry Pi 5** con servicios en Docker y VPN.
+- 💻 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma por el IES Leonardo Da Vinci.
+- 🎯 Estudiando de manera autodidacta para la certificación **eJPTv2**.
 - 📍 Albacete, España.
 
 ---
@@ -37,14 +36,6 @@ Me apasiona la ciberseguridad y el desarrollo de software. Dedico mi tiempo a en
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-9178D6?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franss02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=a78bfa&icon_color=a78bfa" alt="Estadísticas de Franss02" />
-</p>
 
 ---
 
