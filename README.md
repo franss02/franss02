@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Cybersecurity+%26+Pentesting;CFGS+DAM+%26+UCLM+Grad;Preparing+for+eJPTv2;Homelab+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Cybersecurity+%26+Pentesting;Preparing+for+eJPTv2" alt="Typing SVG" />
   </a>
 </p>
 
@@ -45,10 +45,10 @@ Me apasiona la ciberseguridad y el desarrollo de software. Dedico mi tiempo a en
   <a href="https://www.linkedin.com/in/francisco-serrano-s%C3%A1nchez-478148413/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://franserrano.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-13131f?style=for-the-badge&logo=About.me&logoColor=a78bfa" alt="Portfolio Web" />
+  </a>
   <a href="mailto:franciscoserrano02@protonmail.com" target="_blank">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://discord.com/users/franss02" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
